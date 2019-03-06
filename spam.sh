@@ -35,7 +35,7 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mCYBE TRON DARKNESS"
 sleep 5
 clear
-cd $HOME/LITESPAM/Tul/
+cd $HOME/spam-sms/Tul/
 php 1
 fi
 
@@ -51,7 +51,7 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mDanz"
 sleep 5
 clear
-cd $HOME/LITESPAM/Tul/
+cd $HOME/spam-sms/Tul/
 php 2.php
 fi
 
@@ -66,7 +66,7 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mRaja Adtiya Candra"
 sleep 5
 clear
-cd $HOME/LITESPAM/Tul/
+cd $HOME/spam-sms/Tul/
 php 3.php
 fi
 
@@ -81,7 +81,7 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mCYBE TRON DARKNESS"
 sleep 5
 clear
-cd $HOME/LITESPAM/Tul/
+cd $HOME/spam-sms/Tul/
 php 4.php
 fi
 
@@ -100,7 +100,7 @@ sleep 1
 echo "\033[32;1mtunggu 5 Detik"
 sleep 5
 clear
-cd $HOME/LITESPAM/Tul/
+cd $HOME/spam-sms/Tul/
 php 5.php
 fi
 
@@ -114,7 +114,7 @@ echo "\033[31;1mBatas:""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman:""\033[37;1mphp"
 echo "\033[31;1mAuthor:""\033[37;1mChandra Aditya"
 sleep 5
-cd $HOME/LITESPAM/Tul/
+cd $HOME/spam-sms/Tul/
 php 6.php
 fi
 
@@ -138,7 +138,7 @@ if
 [ $mrrm = 81 ] || [ $mrrm = 81 ]
 then
 clear
-toilet -f slant --gay "LiteSpam"
+toilet -f slant --gay "spam-sms"
 echo "\033[34;1mRepositori:""\033[37;1m https://github.com/4L13199"
 sleep 1
 echo "\033[35;1mPemograman:""\033[36;1m Bash"
@@ -164,7 +164,7 @@ sleep 1
 echo "And All Member CYBE TRON DARKNESS"
 echo "\033[30;1m tunggu 8 detik"
 sleep 8
-sh LITESPAM.sh
+sh spam.sh
 fi
 
 
